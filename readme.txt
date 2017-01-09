@@ -8,3 +8,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 it's sucess
 Creating a new branch is quick
+Creating a new branch is quikc and simple
